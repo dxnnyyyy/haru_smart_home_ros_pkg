@@ -3,6 +3,7 @@
 ## installation
 1. clone this repo in your ```~/catkin_ws/src/``` folder
 1. run ```catkin build``` in your catkin workspace (usually this is ```~/catkin_ws```)
+1. install python dependencies (TODO: genereate requirements.txt) 
 
 ## starting
 1. open up a terminal make sure that it is sourced with the ros stuff (if not, run ```source ~/catkin_ws/devel/setup.bash```)
